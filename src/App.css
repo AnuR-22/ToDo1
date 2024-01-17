@@ -1,0 +1,130 @@
+/* .footer{
+  background-color: brown;
+}
+.incdec{
+  background-color: aqua;
+}
+.header{
+  background-color: blue;
+}
+.App{
+  background-color: rgb(197, 124, 124);
+}
+.color{
+  width: 200px;
+  height: 200px;
+background-color: blue;
+
+}
+.mydiv{
+  height:100px;
+  width:100px;
+  background-color:green;
+  display: block;
+  border: 1px solid #000;
+}
+.mydi{
+  height:100px;
+  width:100px;
+  background-color:green;
+  display: block;
+  border: 1px solid #000;
+} */
+
+.navbar{
+  background-color: #7774bb;
+  overflow: hidden;
+  
+}
+
+.navbar ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 5px;
+  overflow: hidden;
+  
+}
+.navbar li{
+  float:left;
+  margin-left: 80px;
+  
+}
+.navbar a {
+  text-decoration: none;
+  color:white;
+  font-weight: bold
+
+}
+
+.navbar img{
+  padding: 5px;
+  overflow: hidden;
+  float:left;
+  margin-left: 150px;
+  
+}
+.navbar a:hover{
+  text-decoration-line: underline;
+}
+.icon{
+  margin-right: 5%;
+  padding-right: 7%;
+}
+.i1{
+  position: absolute;
+  left: 0;
+  top: 40%;
+  width: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+.i2{
+  position: absolute;
+  left: 0;
+  top: 40%;
+  width: 100px;
+  display: flex;
+  margin-left: 240px;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.Search-box  {
+ float: left;
+  margin-left: 25%;
+  padding-top: 5px;
+  width: 300px;
+  position: relative;
+}
+.input-field{
+  width: 100%;
+  outline: 0;
+  border: 1px solid #fea6a6;
+  border-radius: 2px;
+  padding: 10px;
+  padding-left: 60px;
+}
+ .Search-box button{
+  background-color: blue;
+  margin-left: 330px;
+  position: absolute;
+  top: 30%;
+  width: 60px;
+  display: flex;
+  color: white;
+  font-weight: bold;
+  
+ }
+ .text{
+  position: absolute;
+   left: 0;
+   top: 11%;
+   margin-left: 250px;
+   
+   }
+
+
+
